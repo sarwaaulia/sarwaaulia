@@ -24,7 +24,7 @@ A booking system service application for self-photo studio slots to eliminate ph
 * 🔗 [Live Demo](https://leezstudio.vercel.app/)
 
 ### 👶 LittleGrow
-Modern full-stack E-commerce specifically designed for baby essentials with a focus on real-time updates.
+Modern full-stack E-commerce specifically designed for baby essentials with a focus on real-time updates, role-based access, and payment integrations.
 * **Tech:** Next.js (App Router), Supabase Realtime, Zustand, Midtrans Integration.
 * **Key Feature:** Role-based access (Admin/Customer) and robust payment integration.
 * 🔗 [Live Demo](https://littlegrow.vercel.app/)
