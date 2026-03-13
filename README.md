@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Sarwa!
 
-> **I am a Full-stack Web Developer focused on building intuitive and high-performance web applications. I enjoy building functional, scalable, and user-centric interfaces.**
+> **A fullstack web developer specializing in architecting end-to-end digital solutions from building high performance server-logic to crafting intuitive, user-centric interfaces. My focus is on developing scalable web applications that bridge the gap between robust functionality and seamless user experience.**
 
 ---
 
@@ -18,25 +18,25 @@
 ## 🚀 Featured Projects
 
 ### 📸 LeezStudio
-A booking system service application for self-photo studio slots to eliminate physical queues.
-* **Tech:** Go, GORM, Supabase, Next.js, Tanstack Query, Shadcn/UI.
+A booking system service application for self-photo studio slots to eliminate physical queues using stack queries to ensure frontend data efficiency remains synchronized with that on the backend server..
+* **Tech:** Go, GORM, Supabase, Next.js, Tanstack Query, Shadcn/UI, Tailwind CSS.
 * **Key Feature:** Single Page Application (SPA) implementation for seamless booking.
 * 🔗 [Live Demo](https://leezstudio.vercel.app/)
 
 ### 👶 LittleGrow
-Modern full-stack E-commerce specifically designed for baby essentials with a focus on real-time updates, role-based access, and payment integrations.
+Modern full-stack E-commerce specifically designed for baby essentials with a focus on real-time updates using Zustand state management, role-based access, and Midtrans payment integrations.
 * **Tech:** Next.js (App Router), Supabase Realtime, Zustand, Midtrans Integration.
 * **Key Feature:** Role-based access (Admin/Customer) and robust payment integration.
 * 🔗 [Live Demo](https://littlegrow.vercel.app/)
 
 ### 🧠 Heaven.ai
-Smart journaling application that uses AI to provide personal insights and structured entries.
+A smart journal app that provides personal insights and structured entries using API from OpenAI.
 * **Tech:** Next.js, Supabase, Gemini AI API, Tailwind CSS.
 * **Key Feature:** Weekly automated entry analysis using AI.
 * 🔗 [Live Demo](https://smart-journaling-nnh7.vercel.app/)
 
 ### ⭕ Circle App
-A social media platform (Twitter-like) for real-time interaction and content management.
+A social media platform (Twitter-like) for real-time interaction and content management using Redux toolkit and Websocket.
 * **Tech:** Express.js, Prisma, PostgreSQL, React.js, Redux, Typescript.
 * **Key Feature:** Real-time social features (like, comment, follow) with global state management.
 * 🔗 [Live Demo](https://circle-application.vercel.app/)
