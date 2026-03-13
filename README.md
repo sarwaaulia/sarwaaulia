@@ -22,24 +22,28 @@ A booking system service application for self-photo studio slots to eliminate ph
 * **Tech:** Go, GORM, Supabase, Next.js, Tanstack Query, Shadcn/UI, Tailwind CSS.
 * **Key Feature:** Single Page Application (SPA) implementation for seamless booking.
 * 🔗 [Live Demo](https://leezstudio.vercel.app/)
+* [Documentation link] (https://github.com/sarwaaulia/leezStudio-booking-app)
 
 ### 👶 LittleGrow
 Modern full-stack E-commerce specifically designed for baby essentials with a focus on real-time updates using Zustand state management, role-based access, and Midtrans payment integrations.
 * **Tech:** Next.js (App Router), Supabase Realtime, Zustand, Midtrans Integration.
 * **Key Feature:** Role-based access (Admin/Customer) and robust payment integration.
 * 🔗 [Live Demo](https://littlegrow.vercel.app/)
+* [Documentation link] (https://github.com/sarwaaulia/littlegrow)
 
 ### 🧠 Heaven.ai
 A smart journal app that provides personal insights and structured entries using API from OpenAI.
 * **Tech:** Next.js, Supabase, Gemini AI API, Tailwind CSS.
 * **Key Feature:** Weekly automated entry analysis using AI.
 * 🔗 [Live Demo](https://smart-journaling-nnh7.vercel.app/)
+* [Documentation link] (https://github.com/sarwaaulia/smart-journaling)
 
 ### ⭕ Circle App
 A social media platform (Twitter-like) for real-time interaction and content management using Redux toolkit and Websocket.
 * **Tech:** Express.js, Prisma, PostgreSQL, React.js, Redux, Typescript.
 * **Key Feature:** Real-time social features (like, comment, follow) with global state management.
 * 🔗 [Live Demo](https://circle-application.vercel.app/)
+* [Documentation link] (https://github.com/sarwaaulia/circle-app)
 
 ---
 
